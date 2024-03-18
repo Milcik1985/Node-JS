@@ -1,0 +1,15 @@
+{
+  "name": "node_environment",
+  "version": "1.0.0",
+  "description": "cool app",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milana",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
